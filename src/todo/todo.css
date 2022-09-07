@@ -1,0 +1,63 @@
+.container{
+text-align: center;
+
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+/* background-color: black; */
+background-color: aliceblue;
+margin-bottom: 0px;
+
+}
+.heading{
+    color: blue;
+}
+.task{
+    margin-top: 0px;
+    /* background-color: brown; */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    
+    
+    
+    }
+.task button{
+    margin-left: 20px;
+    background-color: aquamarine;
+}
+.completed{
+  text-decoration: line-through;
+  color: yellowgreen;
+  
+}
+
+
+.task-container{
+    /* display: flex;
+    justify-content: center; */
+    align-items: center;
+    margin-top: 30px;
+    
+}
+.task-container span{
+    color: red;
+    margin-left: 20px;
+    font-weight: bold;
+
+}
+.input-todo{
+    width: 200px;
+    padding: 15px;
+    height: 15px;
+}
+.Add-btn{
+    margin-left: 20px;
+    width: 59px;
+    height: 39px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    
+    font-weight: bolder;
+    background-color: #ff5252;
+}

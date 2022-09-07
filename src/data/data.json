@@ -1,0 +1,33 @@
+[{
+    "id" : 1,
+    "task": "change light bulb",
+    "completed": false
+
+},{
+    "id": 2,
+    "task":"go to store",
+    "completed": false
+},{
+    "id": 3,
+    "task": "read book for 2hr",
+    "completed" : false
+},{
+    "id": 4,
+    "task": "watching movie",
+    "completed" : true
+},
+{
+    "id":5,
+    "task":"order book",
+    "completed":false
+},{
+    "id":6,
+    "task":"drink coffee",
+    "completed":true
+
+}
+
+
+
+
+]
